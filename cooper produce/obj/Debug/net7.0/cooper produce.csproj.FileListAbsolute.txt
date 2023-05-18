@@ -1,0 +1,31 @@
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\appsettings.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\cooper produce.staticwebassets.runtime.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\cooper produce.exe
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\cooper produce.deps.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\cooper produce.runtimeconfig.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\cooper produce.dll
+C:\Users\chase\source\repos\cooper produce\cooper produce\bin\Debug\net7.0\cooper produce.pdb
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.csproj.AssemblyReference.cache
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.AssemblyInfoInputs.cache
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.AssemblyInfo.cs
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.csproj.CoreCompileInputs.cache
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.RazorAssemblyInfo.cache
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.RazorAssemblyInfo.cs
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\staticwebassets\msbuild.cooper produce.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\staticwebassets\msbuild.build.cooper produce.props
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.cooper produce.props
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.cooper produce.props
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\scopedcss\Pages\Shared\_Layout.cshtml.rz.scp.css
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\scopedcss\bundle\cooper produce.styles.css
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\scopedcss\projectbundle\cooper produce.bundle.scp.css
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.dll
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\refint\cooper produce.dll
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.pdb
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\cooper produce.genruntimeconfig.cache
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Debug\net7.0\ref\cooper produce.dll

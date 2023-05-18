@@ -1,0 +1,7 @@
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Release\net7.0\PubTmp\Out\cooper produce.exe
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Release\net7.0\PubTmp\Out\appsettings.Development.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Release\net7.0\PubTmp\Out\appsettings.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Release\net7.0\PubTmp\Out\cooper produce.dll
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Release\net7.0\PubTmp\Out\cooper produce.deps.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Release\net7.0\PubTmp\Out\cooper produce.runtimeconfig.json
+C:\Users\chase\source\repos\cooper produce\cooper produce\obj\Release\net7.0\PubTmp\Out\cooper produce.pdb

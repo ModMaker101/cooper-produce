@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\cooper produce.props" />
+</Project>
