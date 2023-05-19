@@ -13,3 +13,12 @@
         opacity: 1;
     }
 }
+.spacer-v80{
+    height:80px;
+}
+.spacer-v60{
+    height:60px;
+}
+.spacer-v40 {
+    height: 40px;
+}

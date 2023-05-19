@@ -13,12 +13,24 @@
       "PackagePath": "staticwebassets\\css\\home.css"
     },
     {
+      "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\css\\produce.css",
+      "PackagePath": "staticwebassets\\css\\produce.css"
+    },
+    {
       "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\catnip.png",
+      "PackagePath": "staticwebassets\\images\\catnip.png"
+    },
+    {
+      "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\cucumber.png",
+      "PackagePath": "staticwebassets\\images\\cucumber.png"
     },
     {
       "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\feature.png",
@@ -31,6 +43,22 @@
     {
       "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\feature2.png",
       "PackagePath": "staticwebassets\\images\\feature2.png"
+    },
+    {
+      "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\potatoes.png",
+      "PackagePath": "staticwebassets\\images\\potatoes.png"
+    },
+    {
+      "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\purplebroc.png",
+      "PackagePath": "staticwebassets\\images\\purplebroc.png"
+    },
+    {
+      "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\rosemary.png",
+      "PackagePath": "staticwebassets\\images\\rosemary.png"
+    },
+    {
+      "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\images\\watermelon.png",
+      "PackagePath": "staticwebassets\\images\\watermelon.png"
     },
     {
       "Id": "C:\\Users\\chase\\source\\repos\\cooper produce\\cooper produce\\wwwroot\\js\\site.js",

@@ -16,6 +16,10 @@ build_property.GenerateRazorMetadataSourceChecksumAttributes =
 build_property.MSBuildProjectDirectory = C:\Users\chase\source\repos\cooper produce\cooper produce
 build_property._RazorSourceGeneratorDebug = 
 
+[C:/Users/chase/source/repos/cooper produce/cooper produce/Pages/contact.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNcY29udGFjdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
 [C:/Users/chase/source/repos/cooper produce/cooper produce/Pages/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcRXJyb3IuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
@@ -26,6 +30,10 @@ build_metadata.AdditionalFiles.CssScope =
 
 [C:/Users/chase/source/repos/cooper produce/cooper produce/Pages/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = UGFnZXNcUHJpdmFjeS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/chase/source/repos/cooper produce/cooper produce/Pages/produce.cshtml]
+build_metadata.AdditionalFiles.TargetPath = UGFnZXNccHJvZHVjZS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
 [C:/Users/chase/source/repos/cooper produce/cooper produce/Pages/Shared/_ValidationScriptsPartial.cshtml]

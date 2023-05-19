@@ -1,0 +1,80 @@
+﻿@page
+@model cooper_produce.Pages.produceModel
+@{
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>@{ViewData ["title"]="Produce";}</title>
+    <link rel="stylesheet" href="css/produce.css"/>
+</head>
+<body>
+    <div class="container feature-d">
+        <div id="featureCarosusel" class="carousel slide">
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#featureCarosusel" data-bs-slide-to="0" class="active" aria-current="true" aria-label="Slide 1"></button>
+                <button type="button" data-bs-target="#featureCarosusel" data-bs-slide-to="1" aria-label="Slide 2"></button>
+                <button type="button" data-bs-target="#featureCarosusel" data-bs-slide-to="2" aria-label="Slide 3"></button>
+                <button type="button" data-bs-target="#featureCarosusel" data-bs-slide-to="3" aria-label="Slide 4"></button>
+                <button type="button" data-bs-target="#featureCarosusel" data-bs-slide-to="4" aria-label="Slide 5"></button>
+                <button type="button" data-bs-target="#featureCarosusel" data-bs-slide-to="5" aria-label="Slide 6"></button>
+            </div>
+            <div class="carousel-inner rounded-2 carousel-fade">
+                <div class="carousel-item active">
+                    <img src="~/images/cucumber.png" class="d-block w-100 cuc" alt="cucumber">
+                    <div class="carousel-caption d-none d-md-block fade-in">
+                        <h4>Cucumber</h4>
+                        <p>Six cucumber plants</p>
+                    </div>
+                </div>
+                <div class="carousel-item rounded-2">
+                    <img src="~/images/catnip.png" class="d-block w-100 catnip" alt="...">
+                    <div class="carousel-caption d-none d-md-block fade-in">
+                        <h4>Catnip</h4>
+                        <p>Two Catnip plants</p>
+                    </div>
+                </div>
+                <div class="carousel-item rounded-2">
+                    <img src="~/images/potatoes.png" class="d-block w-100 potatoes" alt="...">
+                    <div class="carousel-caption d-none d-md-block fade-in">
+                        <h4>Potatoes</h4>
+                        <p>Three Potatoes plants</p>
+                    </div>
+                </div>
+                <div class="carousel-item rounded-2">
+                    <img src="~/images/purplebroc.png" class="d-block w-100 broc" alt="...">
+                    <div class="carousel-caption d-none d-md-block fade-in">
+                        <h4>Purple Broccoli</h4>
+                        <p>One Purple Broccoli Plant</p>
+                    </div>
+                </div>
+                <div class="carousel-item rounded-2">
+                    <img src="~/images/rosemary.png" class="d-block w-100 rosemary" alt="...">
+                    <div class="carousel-caption d-none d-md-block fade-in">
+                        <h4>Rosemary</h4>
+                        <p>Three Rosemary plants</p>
+                    </div>
+                </div>
+                <div class="carousel-item rounded-2">
+                    <img src="~/images/watermelon.png" class="d-block w-100 watermelon" alt="...">
+                    <div class="carousel-caption d-none d-md-block fade-in">
+                        <h4>Watermelon</h4>
+                        <p>Nine watermelon plants</p>
+                    </div>
+                </div>
+            </div>
+            <button class="carousel-control-prev" type="button" data-bs-target="#featureCarosusel" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Previous</span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#featureCarosusel" data-bs-slide="next">
+                <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                <span class="visually-hidden">Next</span>
+            </button>
+        </div>
+    </div>
+</body>
+</html>
